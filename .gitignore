@@ -1,0 +1,12 @@
+# Ambiente Virtual Python
+venv/
+
+# Caches do Python
+__pycache__/
+*.pyc
+
+# Caches do Jupyter
+.ipynb_checkpoints/
+
+# Pasta do MLFlow
+mlruns/
